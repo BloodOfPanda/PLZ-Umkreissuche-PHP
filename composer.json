@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            plz-umkreissuche-php\\": "src/"
+            "plz-umkreissuche-php\\": "src/"
         }
     },
     "minimum-stability": "dev"
