@@ -12,9 +12,9 @@ https://demo.foxhost.it/PLZ/
 ## Installation
 
 ```bash
-  index.php und den Ordner /inc/ hochladen
+  index.php und den Ordner /inc/ aus dem Ordner /src/ hochladen
   Improtieren der Datenbank SQL
-  Anpassen der config.php im Ordner /inc/
+  Anpassen der config.php im Ordner /inc/ mit eigenen Daten
 ```
     
 ## License
